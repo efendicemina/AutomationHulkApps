@@ -11,7 +11,7 @@
    - Open Visual Studio.
    - Choose the `Open a project or solution` option.
    - Navigate to the location where you cloned the repository and open the `.sln` (solution) file.
-   - 
+   
 
 5. **Running Tests**
    - Find `Test Explorer` in Visual Studio (`Test > Test Explorer`).
